@@ -4,7 +4,7 @@
 🌱 I’m currently learning native iOS development<br />
 👯 I’m looking to collaborate on nonprofit dev<br />
 💬 Ask me about Flutter<br />
-📫 How to reach me: [git-in-contact@sharpsan.app](mailto:git-in-contact@sharpsan.app)<br />
+📫 How to reach me: [hello@sharpsan.dev](mailto:hello@sharpsan.dev)<br />
 
 
 <br />
