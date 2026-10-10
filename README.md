@@ -1,17 +1,23 @@
-## Hey, there!
+### hey, I'm Garrett 👋
 
+I build mobile apps, web apps, and the backends behind them. I've worked in a lot of different stacks (Flutter, Kotlin, .NET, Spring Boot, Laravel, NestJS, Next.js, AWS), and lately I've been integrating LLMs into production apps.
 
-🌱 I’m currently learning native iOS development<br />
-👯 I’m looking to collaborate on nonprofit dev<br />
-💬 Ask me about Flutter<br />
-📫 How to reach me: [hello@sharpsan.dev](mailto:hello@sharpsan.dev)<br />
+<img src="https://skillicons.dev/icons?i=ts,kotlin,flutter,react,nextjs,nestjs,dotnet,spring,laravel,svelte,tailwind,redux,postgres,graphql,firebase,aws,azure,docker,githubactions,vercel,sentry&perline=11" alt="TypeScript, Kotlin, Flutter, React, Next.js, NestJS, .NET, Spring, Laravel, Svelte, Tailwind, Redux, PostgreSQL, GraphQL, Firebase, AWS, Azure, Docker, GitHub Actions, Vercel, Sentry" />
 
+<details>
+<summary>everything else I've shipped with</summary>
+<br>
 
-<br />
+**services** · Stripe (Connect + Billing) · Pusher · Loops · Veriff · AWS IVS · Claude · OpenAI<br>
+**aws** · CDK · ECS · RDS · S3 · SQS · CloudFront · CloudWatch<br>
+**tooling** · TypeORM · Playwright · TipTap · shadcn/ui · next-intl · Crashlytics · GA4 · ffmpeg<br>
+**apis** · REST · OpenAPI · JSON Schema
 
+</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharpsan&count_private=true&layout=compact&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+on the side I make a few Android apps → [sharpsan.app](https://sharpsan.app)
 
+email: [hello@sharpsan.dev](mailto:hello@sharpsan.dev)
 
 
 <!-- [![sharpsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharpsan&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&hide_rank=true&hide=prs,stars,contribs)](https://github.com/anuraghazra/github-readme-stats) -->
